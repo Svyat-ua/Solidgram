@@ -140,7 +140,7 @@ form?.addEventListener('submit', (event) => {
 
   input.focus();
 
-  playSendSound();
+  // playSendSound();
 });
 
 input?.addEventListener('input', () => {
